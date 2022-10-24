@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=0.0.1
+Name=LAP Ticketing
+Comment= (c) 2018 Hosanna Higher Technologies Co. Ltd
+Icon=/home/user0/Ticketing/icon.png
+Exec=/home/user0/Ticketing/NEW8210Project
+Path=/home/user0/Ticketing
+Terminal=false
+
